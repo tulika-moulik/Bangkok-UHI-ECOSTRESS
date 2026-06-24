@@ -9,6 +9,7 @@ This repository contains the datasets, processing workflow, maps, visualizations
 The study investigates the spatial distribution of Land Surface Temperature (LST) and Surface Urban Heat Island (SUHI) intensity across Bangkok Metropolitan Administration (BMA), Thailand, using NASA ECOSTRESS thermal observations. The research integrates Local Climate Zone (LCZ) classification, vegetation indices, built-up indices, and urban morphology indicators to evaluate the influence of urban form on thermal patterns during heatwave conditions.
 
 ---
+
 ## Project Workflow
 
 ```text
@@ -27,6 +28,9 @@ Urban Morphology Indicators
 Statistical Analysis
       ↓
 Surface Urban Heat Island (SUHI) Assessment
+
+```
+
 
 ## Research Objectives
 
