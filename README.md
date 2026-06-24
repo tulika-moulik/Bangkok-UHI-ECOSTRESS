@@ -106,6 +106,13 @@ The repository contains:
 All figures are available in the **Figures** directory.
 
 ---
+## Key Findings
+
+- Surface Urban Heat Island (SUHI) intensity varied across Local Climate Zones.
+- Built-up areas exhibited higher Land Surface Temperature compared to vegetated areas.
+- Vegetation cover showed a cooling influence on urban thermal conditions.
+- Urban morphology influenced the spatial distribution of heat across Bangkok.
+- ECOSTRESS observations proved effective for analysing urban thermal variability during heatwave conditions.
 
 ## Software and Tools
 
